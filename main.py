@@ -3,6 +3,8 @@ import json
 
 app = FastAPI()
 
+# test 주석
+
 
 # JSON 파일 로드
 with open('data.json', 'r', encoding='utf-8') as f:
