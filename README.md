@@ -7,3 +7,5 @@ tkinter -> client
 Fastapi -> server
 
 server -> jsons -> client
+
+python version = 3.14
